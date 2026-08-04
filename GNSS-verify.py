@@ -30,10 +30,10 @@ GNSS_GLOB = str(GNSS_DIR / "*.nmea")
 OUT_DIR   = Path(r"J:\True-Sentinel\evidence_packages")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-LOCATION    = "Perris, California, United States (33.800543, -117.220337)"
-PETITIONER  = "Christopher T. Williams"
+LOCATION    = "Your Location, California, United States (32.806543, -114.220737)"
+PETITIONER  = "Enter Name"
 PATENT      = "USPTO Patent Application 19/466,387"
-CASE_REF    = "PE260810041"
+CASE_REF    = "ADD CASE #"
 OAS_EMAIL   = "CIDHDenuncias@oas.org"
 
 # physics constants for GPS L1 C/A
