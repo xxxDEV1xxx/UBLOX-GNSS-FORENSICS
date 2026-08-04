@@ -1,0 +1,6 @@
+python -m pip install python-docx docx
+ python ublox_data.py
+ python GNSS_REPORT.py
+python GNSS-verify.py
+
+Start-Process "J:\True-Sentinel\evidence_packages\gnss_evidence_20260729_040939.html"
